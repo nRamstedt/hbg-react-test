@@ -1,0 +1,26 @@
+{
+  "name": "hbg-react-test",
+  "version": "1.0.0",
+  "description": "Testing purpose",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nRamstedt/hbg-react-test.git"
+  },
+  "author": "Nikolas Ramstedt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nRamstedt/hbg-react-test/issues"
+  },
+  "homepage": "https://github.com/nRamstedt/hbg-react-test#readme",
+  "peerDependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "dependencies": {
+    "react-onclickoutside": "^6.7.1"
+  }
+}
